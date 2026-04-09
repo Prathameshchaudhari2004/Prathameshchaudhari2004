@@ -64,7 +64,8 @@ Prathamesh Chaudhari</a></h1>
 <h3>Projects 🚀</h3>
 
 <ul>
-<li>🏠 Smart Home System using Java (OOP Concepts)</li>
+<li>✈️ Flight Management System (OOP Concepts)</li>
+<li>🫀 Heart Disease Prediction System (ML Concepts)</li>
 </ul>
 
 <hr>
