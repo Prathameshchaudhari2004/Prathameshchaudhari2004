@@ -1,75 +1,220 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Prathameshchaudhari2004" target="blank">
-Prathamesh Chaudhari</a></h1>
+<div align="center">
 
-<h3 align="center">An Information Technology Student from India passionate about Machine Learning, Data Science and Java </h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24&text=Prathamesh%20Chaudhari&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=60" width="100%"/>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Prathameshchaudhari2004&label=Profile%20views&color=0e75b6&style=flat" alt="Prathamesh" /> 
-</p>
-
-<a target="_blank" align="center">
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-<ul>
-
-<li>
-<p>🎓 I’m currently a 3rd Year Information Technology student</p>
-</li>
-
-<li>
-<p>🌱 I’m currently learning <strong> Machine Learning, Data Science, Python and Java</strong></p>
-</li>
-
-<li>
-<p>🚀 I’m building projects in <strong>Machine Learning</strong></p>
-</li>
-
-<li>
-<p>🎯 My goal is to become a skilled Machine Learning and Data Scientist</p>
-</li>
-
-<li>
-<p>📫 How to reach me: <strong>prathameshchaudhari111@gmail.com</strong></p>
-</li>
-
-<li>
-<p>📄 Know about my projects: <a href="https://github.com/Prathameshchaudhari2004" target="blank">GitHub Profile</a></p>
-</li>
-
-</ul>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Prathamesh+Chaudhari;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Analytics+Explorer;Building+Projects+That+Matter;Future+ML+Engineer"/>
 
 <br>
 
-<h3 align="center">Connect with me 🤝</h3>
+<img src="https://komarev.com/ghpvc/?username=Prathameshchaudhari2004&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-<p align="center">
+</div>
 
-<a href="https://github.com/Prathameshchaudhari2004" target="blank">
-<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"/>
+---
+
+# 👨‍💻 About Me
+
+```yaml
+Name       : Prathamesh Chaudhari
+Location   : Maharashtra, India 🇮🇳
+Degree     : B.Tech Information Technology
+College    : NMIMS
+Role       : Aspiring Data Scientist
+Learning   : Machine Learning, Deep Learning, OpenCV
+Languages  : Python, Java, SQL
+Tools      : Power BI, Jupyter, Git, GitHub
+Goal       : Data Scientist / ML Engineer
+```
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+* 📊 Data Analytics & Visualization
+* 🤖 Machine Learning Projects
+* 🧠 Deep Learning Fundamentals
+* 👁️ Computer Vision & OpenCV
+* 📈 Placement Preparation
+* 💡 Solving Real World Problems Using Data
+
+---
+
+# 💫 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,tensorflow,pytorch&perline=4"/>
+
+</div>
+
+### 📊 Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### 📈 Analytics
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+---
+
+# 🌟 Featured Projects
+
+## ❤️ Heart Disease Prediction System
+
+Machine Learning model that predicts the likelihood of heart disease using patient health parameters.
+
+**Tech Stack**
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+
+---
+
+## 🩺 AI Medical Report Analyzer
+
+Upload a medical report and automatically:
+
+* Extract health values
+* Detect abnormalities
+* Explain results in simple language
+* Generate insights
+
+---
+
+## 📊 Titanic Dashboard
+
+Interactive Power BI dashboard for survival analysis and business insights.
+
+---
+
+## 🏠 Smart Home System
+
+Java OOP project demonstrating:
+
+* Inheritance
+* Polymorphism
+* Interfaces
+* Abstraction
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prathameshchaudhari2004&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prathameshchaudhari2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Prathameshchaudhari2004&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathameshchaudhari2004&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathameshchaudhari2004&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 💎 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prathameshchaudhari2004&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🚀 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+```text
+✅ Master Python
+✅ Master SQL
+✅ Build ML Projects
+✅ Learn Deep Learning
+✅ Learn OpenCV
+🔄 Learn GenAI
+🔄 Learn MLOps
+🎯 Crack Data Science Internship
+🎯 Become ML Engineer
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Prathameshchaudhari2004/Prathameshchaudhari2004/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Prathameshchaudhari2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/prathamesh-chaudhari-789a4432a?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
-<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
-</a>
+</div>
 
-<a href="https://www.instagram.com/prathamesh_chaudhari_56?igsh=Ynhobm5oZjFvaXdu" target="blank">
-<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"/>
-</a>
+---
 
-</p>
+<div align="center">
 
-<hr>
+### 💡 Data Scientist Mindset
 
-<h3>Projects 🚀</h3>
+*"Turning Data Into Decisions, Models Into Solutions, And Ideas Into Impact."*
 
-<ul>
-<li>✈️ Flight Management System (OOP Concepts)</li>
-<li>🫀 Heart Disease Prediction System (ML Concepts)</li>
-</ul>
+</div>
 
-<hr>
-
-<p align="center">
-⭐ Always learning new technologies and building useful projects.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
