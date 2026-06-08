@@ -12,6 +12,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="55%">
+
 # 👨‍💻 About Me
 
 ```yaml
