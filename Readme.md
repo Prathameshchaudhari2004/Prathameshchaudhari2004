@@ -108,17 +108,7 @@ Java OOP project demonstrating:
 * Polymorphism
 * Interfaces
 * Abstraction
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prathameshchaudhari2004&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
+  
 ---
 
 # 📊 GitHub Stats
@@ -184,16 +174,6 @@ Java OOP project demonstrating:
 🎯 Crack Data Science Internship
 🎯 Become ML Engineer
 ```
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Prathameshchaudhari2004/Prathameshchaudhari2004/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
