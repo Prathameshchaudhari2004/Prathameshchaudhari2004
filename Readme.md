@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24&text=Prathamesh%20Chaudhari&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=60" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Prathamesh+Chaudhari;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Analytics+Explorer;Building+Projects+That+Matter;Future+ML+Engineer"/>
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Prathameshchaudhari2004&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
